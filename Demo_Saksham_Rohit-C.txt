@@ -1,0 +1,35 @@
+C Programming Language
+
+Programming: set of instructions/statements
+
+Language: Medium of Communication
+
+
+Human 						Computer
+English		Compiler/Translator		Binary (0 or 1) Language
+High Level L					Low Level L
+
+Compiler: HLL convert into LLL
+	LLL into HLL
+
+Binary: (2)- 0 or 1
+
+Computer: Electronic Device ---> Current  ----> current Flow (1) ----> No current Flow (0)
+
+Code:
+
+1. Turbo C++
+2. Code::Blocks - Modern Software to run C Programming Language
+
+
+Command Prompt
+GUI: Graphical User Interface - Event Action (Buttons)
+
+
+Comments:
+It is used to describe your code.
+// comments are not a part of our code because comments are ignored by the compiler.
+1. Single Line Comment - //
+2. Multiple Lines Comment - /* 
+
+  */

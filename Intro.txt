@@ -1,0 +1,17 @@
+Data Structure:
+
+- Searching 
+- Sorting
+
+1. Linear DS
+
+- Array
+- Linked List
+- Stack
+- Queue
+- Hashing
+
+2. Non-Linear DS
+
+- Tree
+- Graph
