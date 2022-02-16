@@ -5,17 +5,16 @@ int main()
 {
     int heap[10], i, j, n, temp, c, root;
 
-    printf("Enter number of elements:");
+    printf("Enter number of Elements:");
     scanf("%d", &n);
 
-    printf("Enter Values:\n");
-    for(i=0; i < n; i++)
+    printf("Enter Integers:\n");
+    for(i = 0; i < n; i++)
     {
-
         scanf("%d", &heap[i]);
     }
 
-    printf("Heap Tree:\n");
+    printf("\nHeap Array:\n");
     for(i = 0; i < n; i++)
     {
         printf("%d  ", heap[i]);
@@ -26,9 +25,9 @@ int main()
         c = i;
 
         do {
-            root = (c - 1)/2;
+            root = (c - 1) / 2; // 0
 
-            if(heap[root] < heap[c]) // create max heap array / tree
+            if(heap[root] < heap[c]) // create max heap array
             {
                 temp = heap[root];
                 heap[root] = heap[c];
@@ -39,7 +38,7 @@ int main()
         }while(c != 0);
     }
 
-    printf("\nMax Heap Array is: \n");
+    printf("\nMax Heap Array is:\n");
     for(i = 0; i < n; i++)
     {
         printf("%d  ", heap[i]);
@@ -73,7 +72,6 @@ int main()
             }
 
             root = c;
-
         }while(c < j);
     }
 
