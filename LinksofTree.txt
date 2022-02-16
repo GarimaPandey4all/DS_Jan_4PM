@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/GarimaPandey4all/DS_3PM/main/AVLTree.png
+
+https://raw.githubusercontent.com/GarimaPandey4all/DS_3PM/main/B-Star_B-Plus_Tree.png
+
+https://raw.githubusercontent.com/GarimaPandey4all/DS_3PM/main/B-Tree-1.png
+
+https://raw.githubusercontent.com/GarimaPandey4all/DS_3PM/main/B-Tree-2.png
